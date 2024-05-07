@@ -1,9 +1,9 @@
 const g=()=>{
-    return 1
+    return 11
     }
-    const a=()=>{
-        return 2
+const a=()=>{
+        return 22
         }
-     const b=()=>{
-            return 3
+const b=()=>{
+            return 33
             }
