@@ -1,4 +1,5 @@
 const g=()=>{
+
 return "from g function"
 }
 const a=()=>{
