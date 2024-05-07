@@ -1,9 +1,10 @@
 const g=()=>{
-    return 11
-    }
+
+return "from g function"
+}
 const a=()=>{
-        return 22
+    return "from a function"
+    }
+ const b=()=>{
+        return "from b function"
         }
-const b=()=>{
-            return 33
-            }
