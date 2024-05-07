@@ -1,0 +1,3 @@
+const g=()=>{
+return "gg"
+}
