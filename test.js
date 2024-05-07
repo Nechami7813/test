@@ -1,3 +1,6 @@
 const g=()=>{
-return "gg"
+return "from g function"
 }
+const d=()=>{
+    return "from d function"
+    }
